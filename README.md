@@ -56,8 +56,8 @@ I can identify most car models just by their **headlights!** 🔦🚘
 
 ---
 
-<p align="center">
+<!--- <p align="center">
   <a href="https://github.com/carfreaker1" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=carfreaker1&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
-</p>
+</p> --->
