@@ -48,7 +48,7 @@ I can identify most car models just by their **headlights!** 🔦🚘
 ## 🚀 My Projects
 
 <details>
-  <summary>cTask Manager (HTML, CSS, JS, Material Design, Laravel)</summary>
+  <summary>Task Manager (HTML, CSS, JS, Material Design, Laravel)</summary>
 
 - A complete task management system built with Laravel.  
 - Features: User Registration/Login, Task Creation, Status Tracking.  
