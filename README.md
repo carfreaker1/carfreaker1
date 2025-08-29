@@ -46,13 +46,13 @@ I can identify most car models just by their **headlights!** 🔦🚘
 ---
 
 <details>
-<summary>🔧 Projects I'm Working On</summary>
+<!--- <summary>🔧 Projects I'm Working On</summary>
 
 - Laravel-powered car community app (beta)  
 - Custom dashboard for car tuning stats  
 - Interactive car model gallery with filters  
 
-</details>
+</details> --->
 
 ---
 
