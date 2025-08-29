@@ -45,14 +45,30 @@ I can identify most car models just by their **headlights!** 🔦🚘
 
 ---
 
+## 🚀 My Projects
+
 <details>
-<!--- <summary>🔧 Projects I'm Working On</summary>
+  <summary>cTask Manager (HTML, CSS, JS, Material Design, Laravel)</summary>
 
-- Laravel-powered car community app (beta)  
-- Custom dashboard for car tuning stats  
-- Interactive car model gallery with filters  
+- A complete task management system built with Laravel.  
+- Features: User Registration/Login, Task Creation, Status Tracking.  
+- Implemented MVC, Eloquent ORM, Blade Templates, authentication.  
+- Dynamic content updates for real-time CMS modifications.  
+- Experience with Laravel routing, migrations, middleware.  
 
-</details> --->
+</details>
+
+<details>
+  <summary>Dynamic Website (PHP, HTML, CSS, JavaScript)</summary>
+
+- Multi-page dynamic website using modular PHP.  
+- Sections: Home, About, Services, Contact with form submission.  
+- Reusable layouts, navigation menus, front-end animations.  
+- Backend logic integrated with frontend UI.  
+- Clean, maintainable directory structure.  
+
+</details>
+
 
 ---
 
